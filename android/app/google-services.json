@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088976238501",
+    "project_id": "homehunt-70ba1",
+    "storage_bucket": "homehunt-70ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088976238501:android:86bf6f05847ff132dd5a4c",
+        "android_client_info": {
+          "package_name": "com.example.homehunt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxqFEUvfrEP5bkkEC4FkQGbxph9m5W1Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
